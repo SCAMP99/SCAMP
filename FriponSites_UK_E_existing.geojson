@@ -1,0 +1,138 @@
+{ "type": "FeatureCollection",
+    "features": [
+
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.184408,50.801832]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSW01.jpg' target='_blank'>Honiton</a>"}
+      },
+      { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-0.169234,51.637359]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENGL01.jpg' target='_blank'>East Barnet</a>"}
+      },
+      { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-2.233606,53.474365]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW01.jpg' target='_blank'>University of Manchester</a>"}
+      },
+      { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [-6.649632,54.352350]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNI01.jpg' target='_blank'>Armagh Observatory & Planetarium</a>"}
+      },
+      { "type": "Feature",  
+        "geometry": {"type": "Point", "coordinates": [1.07208,51.2735]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff, National Museum Wales</a>"}
+      },    
+        
+
+
+
+
+
+
+     
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ 2.336733, 48.836595 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRIF02.jpg' target='_blank'>Observatoire de Paris</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.299466,   49.89907 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRPI01.jpg' target='_blank'>Amiens</a>"}
+      },  
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-1.6927,49.6657]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO01.jpg' target='_blank'>Querqueville</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-4.504675,48.408680556]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRBR01.jpg' target='_blank'>Brest</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -3.52694, 48.78361 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRBR03.jpg' target='_blank'>Pleumeur Bodou</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [ -1.446223,   48.663645 ]},
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO06.jpg' target='_blank'>Vains</a>"}
+      }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -1.727918,   49.630688 ]}, 
+          "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_FRNO07.jpg' target='_blank'>Ludiver</a>"}
+      },    
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-0.366872222,49.192327778]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO03.jpg' target='_blank'>Caen</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  -0.48194,    48.765 ]}, 
+          "properties": {"Name":"Flers"}
+      }, 
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.532777778,48.579722222]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCE04.jpg' target='_blank'>Pierres</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.1794019,48.7063942]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF04.jpg' target='_blank'>Orsay</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.35712722,48.8432778]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF05.jpg' target='_blank'>Paris MNHN</a>"}
+      },
+      { "type": "Feature", 
+        "geometry": {"type": "Point",  "coordinates": [2.7422,48.742683]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRIF03.jpg' target='_blank'>Gretz-Armainvilliers</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.084444,49.44722]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNO05.jpg' target='_blank'>Rouen</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  2.798909,   49.399648 ]}, 
+          "properties": {"Name":"Compiègne"}
+      },  
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.067222222,49.24325]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRCA01.jpg' target='_blank'>Reims</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [  3.323283,   49.835909 ]}, 
+          "properties": {"Name":"Saint Quentin"}
+      },    
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.765284,50.28739]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP05.jpg' target='_blank'>Arras</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [1.605769,50.763017]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP03.jpg' target='_blank'>Wimereux</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.070833,50.615833]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP01.jpg' target='_blank'>Lille</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [3.987009,50.277946]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP04.jpg' target='_blank'>Maubeuge</a>"}
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [4.418402778,52.218752778]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_NLWN01.jpg' target='_blank'>Noordwijk</a>"}
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [3.53767, 51.57192]},
+      "properties": {"Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_NLWN02.jpg' target='_blank'>Oostkapelle</a>"}
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [4.357075,50.796728]},
+      "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_BEBR01.jpg' target='_blank'>Bruxelles</a>"} 
+      },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [2.366519,50.99608]},
+          "properties": {"Name":"<a href='http://www.fripon.org/IMG/jpg/stations/RT_FRNP02.jpg' target='_blank'>Cappelle la Grande</a>"}
+      }
+      
+    
+    ]}
