@@ -30,8 +30,8 @@
 
 
 
-{ "type": "Feature", "properties": {"marker-color": "#FFCCCC","Name": "ESA Harwell", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.30761, 51.5761 ] } },
-{ "type": "Feature", "properties": {"marker-color": "#FFCCCC","Name": "St Davids", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.265941502242578, 51.881124720428929 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#FFCCE5","Name": "ESA Harwell", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.30761, 51.5761 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#FFCCE5","Name": "St Davids", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.265941502242578, 51.881124720428929 ] } },
 
 
 
