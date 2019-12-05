@@ -41,7 +41,7 @@
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Eskdalemuir", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.173245, 55.268892 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Keyworth", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.078924304967682, 52.878803993958911 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Truro", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.074713, 50.302123 ] } },
-{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Barnstaple", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.112333, 51.063592 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Swansea", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.942031, 51.615760 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Bournemouth", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.854422, 50.787901 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Newport IoW", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.276693, 50.672279 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Littel Walsingham", "description": null }, "geometry": { "type": "Point", "coordinates": [ 0.828578, 52.90677 ] } },
