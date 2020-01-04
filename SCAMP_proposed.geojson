@@ -85,7 +85,7 @@
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Brough", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.318112, 54.526301 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Liverpool", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.994504, 53.406898 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Leeds", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.532475, 53.789899 ] } },
-{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Hull", "description": null }, "geometry": { "type": "Point", "coordinates": [ -0.338936, 53.743556 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Skirlaugh, Hull", "description": null }, "geometry": { "type": "Point", "coordinates": [ -0.267570, 53.843328 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Hollyhead", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.635225, 53.309123 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Abersoch", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.505513, 52.824269 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Welshpool", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.145426, 52.657893 ] } },
