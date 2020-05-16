@@ -1,4 +1,4 @@
-﻿Stations,Latitude,Longitude,Altitude,Country,City,Camera,Switch,Status
+Stations,Latitude,Longitude,Altitude,Country,City,Camera,Switch,Status
 ATWI01,48.20525,16.359753,180,Austria,Wien,DMK 23G445,TL-SG2210P,Production
 AUPE01,-32.007267,115.894755,30,Australia,Perth,DMK 23G445,TL-SG2210P,Pending
 AUPE02,-999.9,-999.9,-999.9,Australia,Zadko,DMK 23G445,TL-SG2210P,Pending
@@ -38,7 +38,7 @@ DKSD01,54.908907,9.798961,30,Denmark,Sonderborg,BASLER 1300gm,T1500G-10PS,Produc
 ENGL01,51.637359,-0.169234,87,England,EastBarnet,BASLER 1300gm,TL-SG2210P,Production
 ENNI01,54.35235,-6.649632,75,England,Armagh,BASLER 1300gm,TL-SG2210P,Production
 ENNW01,53.474365,-2.233606,70,England,Manchester,BASLER 1300gm,T1500G-10PS,Production
-ENSE01,-999.9,-999.9,-999.9,England,Harwell,BASLER 1300gm,TL-SG2210P,NotOperational
+ENSE01,51.5761,-1.30761,200,England,Harwell,BASLER 1300gm,TL-SG2210P,NotOperational
 ENSE02,51.2735,1.07208,21,England,Canterbury,BASLER 1300gm,TL-SG2210P,Production
 ENSW01,50.801832,-3.184408,170,England,Honiton,DMK 23G445,TL-SG2210P,Production
 ESCA01,42.024865,0.736836,820,Spain,Montsec,DMK 23G445,TL-SG2210P,Production
