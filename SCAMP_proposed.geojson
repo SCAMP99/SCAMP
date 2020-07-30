@@ -17,13 +17,17 @@
         "geometry": {"type": "Point", "coordinates": [-6.649632,54.352350]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNI01.jpg' target='_blank'>Armagh Observatory & Planetarium</a>"}
       },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff, National Museum Wales</a>"}
+      },    
       { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [1.07208,51.2735]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff, National Museum Wales</a>"}
+        "geometry": {"type": "Point", "coordinates": [-2.1322892,53.6390851]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW02.jpg' target='_blank'>Rochdale</a>"}
       },    
         
 
@@ -31,10 +35,18 @@
 
 
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "ESA Harwell", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.30761, 51.5761 ] } },
+
+
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Ravenscar", "description": null }, "geometry": { "type": "Point", "coordinates": [ -0.491458, 54.400525 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Sutton Bank", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.209287, 54.240715 ] } },
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Skirlaugh, Hull", "description": null }, "geometry": { "type": "Point", "coordinates": [ -0.267570, 53.843328 ] } },
+
+
+{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Leicester", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.131684, 52.65359 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "St Davids", "description": null }, "geometry": { "type": "Point", "coordinates": [ -5.265941502242578, 51.881124720428929 ] } },
-
-
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Dublin", "description": null }, "geometry": { "type": "Point", "coordinates": [ -6.286745796611272, 53.348828190322692 ] } },
+
+
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Lerwick", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.141863367218599, 60.15188105084475 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Edinburgh", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.180136592257314, 55.940696015998611 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Hartland", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.479422773200135, 50.991948309311979 ] } },
@@ -80,12 +92,9 @@
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Cork", "description": null }, "geometry": { "type": "Point", "coordinates": [ -8.48351, 51.895661 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Dingle", "description": null }, "geometry": { "type": "Point", "coordinates": [ -10.271612, 52.139592 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Newcastle upon Tyne", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.613946, 54.979332 ] } },
-{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Middlesborough", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.234947, 54.573544 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Whitehaven", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.588542, 54.549006 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Brough", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.318112, 54.526301 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Liverpool", "description": null }, "geometry": { "type": "Point", "coordinates": [ -2.994504, 53.406898 ] } },
-{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Leeds", "description": null }, "geometry": { "type": "Point", "coordinates": [ -1.532475, 53.789899 ] } },
-{ "type": "Feature", "properties": {"marker-color": "#888888","Name": "Skirlaugh, Hull", "description": null }, "geometry": { "type": "Point", "coordinates": [ -0.267570, 53.843328 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Hollyhead", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.635225, 53.309123 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Abersoch", "description": null }, "geometry": { "type": "Point", "coordinates": [ -4.505513, 52.824269 ] } },
 { "type": "Feature", "properties": {"marker-color": "#888888","Name": "Welshpool", "description": null }, "geometry": { "type": "Point", "coordinates": [ -3.145426, 52.657893 ] } },

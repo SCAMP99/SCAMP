@@ -17,13 +17,17 @@
         "geometry": {"type": "Point", "coordinates": [-6.649632,54.352350]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNI01.jpg' target='_blank'>Armagh Observatory & Planetarium</a>"}
       },
+      { "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff, National Museum Wales</a>"}
+      },    
       { "type": "Feature",  
         "geometry": {"type": "Point", "coordinates": [1.07208,51.2735]},
           "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENSE02.jpg' target='_blank'>Canterbury</a>"}
       },
       { "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-3.177688,51.485854]},
-          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_GBWL01.jpg' target='_blank'>Cardiff, National Museum Wales</a>"}
+        "geometry": {"type": "Point", "coordinates": [-2.1322892,53.6390851]},
+          "properties": {"marker-color": "#aa0000","Name":"<a href='https://www.fripon.org/IMG/jpg/stations/RT_ENNW02.jpg' target='_blank'>Rochdale</a>"}
       },    
         
 
