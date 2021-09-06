@@ -1,32 +1,33 @@
 Station,City,Longitude,Latitude,Altitude,Firstlight,Operator
-AMS16,Ketzür,12.631230,52.495055,60,November 2018,Sirko Molau
-AMS22,Lindenberg Meteorological Observatory,14.121517,52.208667,125,March 2019,André Knöfel
-AMS30,Bernitt,11.917428,53.906824,75,Wolfgang Hamburg
-AMS31,Haidmühle,13.77,48.82,831,Not operating,Detlef Koschny
-AMS32,Noordwijkerhout,4.489189,52.263274,3,January 2021,Detlef Koschny
-AMS33,Seysdorf,11.720244,48.545181,463,March 2020,Sirko Molau
-AMS34,Gettorf,9.982645,54.4044183,28,May 2020,Carsten Jonas
-AMS35,Conow,11.325496,53.220087,68,March 2020,Sirko Molau
-AMS36,Public Observatory Kirchheim,11.015774,50.875137,267,March 2020,Jürgen Schulz
-AMS37,Dwingeloo,6.396062,52.813158,20,February 2021,Felix Bettonvil & Dusan Bettonvil
-AMS50,Karlsruhe,8.3,49.0,113,September 2020,Uwe Baron
-AMS51,VEGA Observatory Salzburg,13.007453,47.924028,802,September 2020,Michael Demker
-AMS52,Sonneberg Observatory,11.1898444,50.3773083,641,November 2020,Peter Kroll
-AMS53,Hofheim Observatory,8.393857,50.113782,360,December 2020,Martin Timpe
-AMS54,Benediktbeuern,11.4219444,47.708333,640,November 2020,Stephan Adler
-AMS56,Private Observatory Bischbrunn,9.517513,49.857624,385,September 2020,Jürgen Väth
-AMS57,Kepler Observatory Weil der Stadt,8.860700,48.751879,475,September 2020,Markus Kempf
-AMS58,Holzkirchen Observatory,11.691886,47.878275,691,October 2020,Martin Weiss
-AMS59,Zweibrücken Observatory,6.9093855,48.7590880,260,November 2020,Rouven Ipser
+AMS16,Ketzür,12.63123,52.495055,60,Nov-18,Sirko Molau
+AMS22,Lindenberg Meteorological Observatory,14.121517,52.208667,125,Mar-19,André Knöfel
+AMS30,Bernitt,11.917428,53.906824,75,Jul-21,Wolfgang Hamburg
+AMS31,Haidmühle,13.77,48.82,831,Jul-21,Detlef Koschny
+AMS32,Noordwijkerhout,4.489189,52.263274,3,Jan-21,Detlef Koschny
+AMS33,Seysdorf,11.720244,48.545181,463,Mar-20,Sirko Molau
+AMS34,Gettorf,9.982645,54.4044183,28,May-20,Carsten Jonas
+AMS35,Conow,11.325496,53.220087,68,Mar-20,Sirko Molau
+AMS36,Public Observatory Kirchheim,11.015774,50.875137,267,Mar-20,Jürgen Schulz
+AMS37,Dwingeloo,6.396062,52.813158,20,Feb-21,Felix Bettonvil & Dusan Bettonvil
+AMS50,Karlsruhe,8.3,49,113,Sep-20,Uwe Baron
+AMS51,VEGA Observatory Salzburg,13.007453,47.924028,802,Sep-20,Michael Demker
+AMS52,Sonneberg Observatory,11.1898444,50.3773083,641,Nov-20,Peter Kroll
+AMS53,Hofheim Observatory,8.393857,50.113782,360,Dec-20,Martin Timpe
+AMS54,Benediktbeuern,11.4219444,47.708333,640,Nov-20,Stephan Adler
+AMS56,Private Observatory Bischbrunn,9.517513,49.857624,385,Sep-20,Jürgen Väth
+AMS57,Kepler Observatory Weil der Stadt,8.8607,48.751879,475,Sep-20,Markus Kempf
+AMS58,Holzkirchen Observatory,11.691886,47.878275,691,Oct-20,Martin Weiss
+AMS59,Zweibrücken Observatory,6.9093855,48.759088,260,Nov-20,Rouven Ipser
 AMS60,Hainberg Observatory,9.976649,51.523875,346,Not operating,Nikola Strah
-AMS61,Amrum,8.35145,54.65225,5,January 2021,Jost Jahn
+AMS61,Amrum,8.35145,54.65225,5,Jan-21,Jost Jahn
 AMS63,Walter-Hohmann-Observatory,6.978594,51.394351,120,Not operating,Michael Werger
-AMS64,Wangen,8.896639,47.188653,442,February 2020,Erwin Späni
-AMS66,Oostkapelle,3.537655,51.571917,3,February 2021,Klaas Jobse
-AMS67,Antwerp,4.454574,51.213359,16,January 2021,Luc Bastiaens
-AMS68,Royal Belgian Institute for Space Aeronomy,5.244685,50.192540,295,Not operating,Hervé Lamy
+AMS64,Wangen,8.896639,47.188653,442,Feb-20,Erwin Späni
+AMS66,Oostkapelle,3.537655,51.571917,3,Feb-21,Klaas Jobse
+AMS67,Antwerp,4.454574,51.213359,16,Jan-21,Luc Bastiaens
+AMS68,Royal Belgian Institute for Space Aeronomy,5.244685,50.19254,295,Not operating,Hervé Lamy
 AMS69,Kals am Großglockner,12.5956,46.9926,2421,Not operating,Stephan Adler
 AMS70,Leibnitz Institute for Atmospheric Physics,11.77206,54.11694,85,Not operating,Gerd Baumgarten
-AMS101,Birmingham Astronomical Society,-1.846419,52.408080,127,February 2021,Ben Stanley
-AMS100,Nuneaton,-1.45472222,52.52638889,80,December 2020,Ben Stanley
-AMS113,Galway,-9.089128,53.274739,31,January 2021,Charlie McCormack
+AMS101,Birmingham Astronomical Society,-1.846419,52.40808,127,Feb-21,Ben Stanley
+AMS100,Nuneaton,-1.45472222,52.52638889,80,Dec-20,Ben Stanley
+AMS113,Galway,-9.089128,53.274739,31,Jan-21,Charlie McCormack
+AMS117,Eastbourne,0.26582,50.75718,61,Aug-21,Jim Rowe
