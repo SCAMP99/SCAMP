@@ -1,34 +1,156 @@
 Station,City,Longitude,Latitude,Altitude,Firstlight,Operator
-AMS16,Ketzür,12.63123,52.495055,60,Nov-18,Sirko Molau
-AMS22,Lindenberg Meteorological Observatory,14.121517,52.208667,125,Mar-19,André Knöfel
-AMS30,Bernitt,11.917428,53.906824,75,Jul-21,Wolfgang Hamburg
-AMS31,Haidmühle,13.77,48.82,831,Jul-21,Detlef Koschny
-AMS32,Noordwijkerhout,4.489189,52.263274,3,Jan-21,Detlef Koschny
-AMS33,Seysdorf,11.720244,48.545181,463,Mar-20,Sirko Molau
-AMS34,Gettorf,9.982645,54.4044183,28,May-20,Carsten Jonas
-AMS35,Conow,11.325496,53.220087,68,Mar-20,Sirko Molau
-AMS36,Public Observatory Kirchheim,11.015774,50.875137,267,Mar-20,Jürgen Schulz
-AMS37,Dwingeloo,6.396062,52.813158,20,Feb-21,Felix Bettonvil & Dusan Bettonvil
-AMS50,Karlsruhe,8.3,49,113,Sep-20,Uwe Baron
-AMS51,VEGA Observatory Salzburg,13.007453,47.924028,802,Sep-20,Michael Demker
-AMS52,Sonneberg Observatory,11.1898444,50.3773083,641,Nov-20,Peter Kroll
-AMS53,Hofheim Observatory,8.393857,50.113782,360,Dec-20,Martin Timpe
-AMS54,Benediktbeuern,11.4219444,47.708333,640,Nov-20,Stephan Adler
-AMS56,Private Observatory Bischbrunn,9.517513,49.857624,385,Sep-20,Jürgen Väth
-AMS57,Kepler Observatory Weil der Stadt,8.8607,48.751879,475,Sep-20,Markus Kempf
-AMS58,Holzkirchen Observatory,11.691886,47.878275,691,Oct-20,Martin Weiss
-AMS59,Zweibrücken Observatory,6.9093855,48.759088,260,Nov-20,Rouven Ipser
-AMS60,Hainberg Observatory,9.976649,51.523875,346,Not operating,Nikola Strah
-AMS61,Amrum,8.35145,54.65225,5,Jan-21,Jost Jahn
-AMS63,Walter-Hohmann-Observatory,6.978594,51.394351,120,Not operating,Michael Werger
-AMS64,Wangen,8.896639,47.188653,442,Feb-20,Erwin Späni
-AMS66,Oostkapelle,3.537655,51.571917,3,Feb-21,Klaas Jobse
-AMS67,Antwerp,4.454574,51.213359,16,Jan-21,Luc Bastiaens
-AMS68,Royal Belgian Institute for Space Aeronomy,5.244685,50.19254,295,Not operating,Hervé Lamy
-AMS69,Kals am Großglockner,12.5956,46.9926,2421,Not operating,Stephan Adler
-AMS70,Leibnitz Institute for Atmospheric Physics,11.77206,54.11694,85,Not operating,Gerd Baumgarten
-AMS101,Birmingham Astronomical Society,-1.846419,52.40808,127,Feb-21,Ben Stanley
 AMS100,Nuneaton,-1.45472222,52.52638889,80,Dec-20,Ben Stanley
+AMS101,Knighton,-3,52.3,420,Oct-22,John Downing
 AMS113,Galway,-9.089128,53.274739,31,Jan-21,Charlie McCormack
 AMS117,Eastbourne,0.255532,50.780113,52,Aug-21,Jim Rowe
+AMS119,Gaustatoppen,8.7,59.8,1846,Jun-21,Steinar Midtskogen
+AMS123,Kristiansand,8,58.1,40,Oct-22,Steinar Midtskogen
+AMS125,Nutfield,-0.1,51.2,40,May-23,Paul Heelis
+AMS135,Orsta,6.2,62.2,111,Nov-21,Geir T. Birkeland Øye
+AMS136,Västerås,16.48,59.7,40,Nov-22,Jim Gage
 AMS137,Sturminster Newton,-2.33413,50.934425,56,Nov-21,John Savage
+AMS16,Ketzür,12.63123,52.495055,60,Nov-18,Sirko Molau
+AMS171,Trondheim,10.4,63.4,128,Aug-24,Steinar Midtskogen
+AMS172,Sørreisa,18.1,69.1,41,Nov-24,Ketil Vegum
+AMS173,Oslo,10.6,60,348,Nov-24,Steinar Midtskogen
+AMS174,Harestua,10.8,60.2,590,Oct-24,Steinar Midtskogen
+AMS175,Moss,10.7,59.4,31,Nov-24,Steinar Midtskogen
+AMS176,Larvik,10.1,59.1,50,Nov-24,Steinar Midtskogen
+AMS177,Skibotn,20.4,69.3,125,Nov-24,Ketil Vegum
+AMS178,Løten,11.5,60.7,309,Nov-24,Steinar Midtskogen
+AMS179,Hågår,10.6,60.6,506,Oct-24,Steinar Midtskogen
+AMS18,Budapest,18.9,47.5,485,Nov-18,Antal Igaz & Krisztián Sárneczky & Balázs Csák
+AMS180,Finnskogen,12.6,61.1,314,Nov-24,Steinar Midtskogen
+AMS200,Göttingen,10,51.5,346,Jun-25,Horst Bickmeier
+AMS201,Jungfraujoch,8,46.5,3571,Apr-22,Gunter Stober
+AMS202,Zimmerwald,7.5,46.9,902,Feb-22,Gunter Stober
+AMS203,Oberwolfach,8.2,48.3,280,Apr-22,Martin Rebbe
+AMS204,Sesimbra,-9.1,38.5,159,Apr-22,Rui Lourenço
+AMS205,Barcs,17.4,46,119,Jun-25,Krisztián Sárneczky & Balázs Csák
+AMS206,Streitheim,10.7,48.4,495,May-22,Markus Schnöbel
+AMS207,Fülöpszállás,19.2,46.8,120,Mar-22,Zsolt Kereszty
+AMS208,Saint-Michel-l'Observatoire,5.7,43.9,650,,Jost Jahn
+AMS21,Herford,8.7,52.1,121,Jul-19,Jörg Strunk
+AMS210,Tekapo,170.5,-43.9,1030,Mar-23,Jim Rowe & Noah Simmonds
+AMS211,Braga,-8.4,41.6,200,Jun-22,João Vieira
+AMS213,Wolfsburg,10.8,52.4,65,Nov-22,Julia Lanz-Kröchert
+AMS214,Eggern,15.2,48.9,578,Jul-22,Dietmar Loy
+AMS215,Chelm,23.5,51.1,194,Dec-22,Martin Weiss & Maciej Maciejewski
+AMS216,Bochum,7.2,51.5,94,Aug-23,Sebastian Schmidt & Johannes Schultz
+AMS219,Peterhead,-1.8,57.5,9,Sep-23,Stephan Adler & Ian Hepworth
+AMS22,Lindenberg,14.121517,52.208667,125,Mar-19,André Knöfel
+AMS220,Newcastle,-1.7,55,140,,Stephan Adler
+AMS221,Kryoneri,22.6,38,900,May-23,Alexios Liakos
+AMS222,Penteli,23.9,38,510,Mar-23,Alexios Liakos
+AMS223,Aarhus,10.2,56.2,30,Jul-24,Hans Otto Uldall Fynbo
+AMS224,Bos-cha,10.2,46.8,1664,Mar-23,Jochen Richert
+AMS225,Stony Brook,-73.1,40.9,60,Sep-24,Mehmet Yesiltas
+AMS226,Kiruna,20.4,67.8,425,,Johan Kero & Daniel Kastinen
+AMS229,Umeå,20.3,63.8,0,,Johan Kero & Daniel Kastinen
+AMS230,Lycksele,18.7,64.6,270,,Johan Kero & Daniel Kastinen
+AMS231,Abisko,18.8,68.4,360,,Johan Kero & Daniel Kastinen
+AMS232,Stafidokampos,21.3,37.9,15,Aug-23,Evangelos-Dimitrios Paspaliaris
+AMS233,Hamburg,10.1,53.6,30,Mar-24,Jochen Schönfelder
+AMS236,Spiekeroog,7.7,53.8,5,Jun-23,Björn Poppe & Theresa Ott
+AMS237,variable,7.7,53.7,10,Jun-23,Björn Poppe & Theresa Ott
+AMS238,Berlin,13.476,52.486,65,Jan-24,Stiftung Planetarium Berlin
+AMS239,Białystok,23.2,53.1,177,Oct-25,Wojciech Burzynski
+AMS240,Corralejo,-13.9,28.7,61,May-24,Peter Müller
+AMS241,Ypati,22.2,38.9,400,Feb-24,Yves Bastian & Fanis Smanis
+AMS242,Skarfeia,22.7,38.8,20,Feb-24,Fanis Smanis
+AMS243,La Couronne,0.1,45.6,110,May-24,Philippe Rainard
+AMS244,Breitenbrunn,9.1,49.8,265,,Hansjürgen Köhler
+AMS245,Invercargill,168.3,-46.4,16,Sep-24,Bob Evans
+AMS246,Greendale,172.1,-43.6,115,Oct-24,Simon Lewis
+AMS247,Lauder,169.7,-45,370,Feb-24,Richard Querel
+AMS248,Presnica,13.9,45.6,473,Feb-25,Rudi Kovac
+AMS249,Goldbach-Altenbach,7.1,47.9,800,Jun-24,Serge Londero
+AMS250,Borowiec,17.1,52.3,95,Jul-24,Roman Hirsch
+AMS251,Trakai,24.7,54.5,155,Sep-24,Markus Kempf
+AMS252,Kiiminki,25.8,65.1,49,Aug-24,Pekka Kangas
+AMS254,Observatorio Geofisico Astronomico,-8.4,40.2,153,Apr-25,Ricardo Gafeira
+AMS255,Balgale,22.9,57.1,41,Nov-24,Sergejs Klimanskis & Martins Gills
+AMS256,Cape Farewell,172.7,-40.5,50,May-25,Sean Walker
+AMS257,Motueka,173,-41.1,15,Mar-25,John Burt
+AMS258,Kaikoura,173.6,-42.6,90,Jul-25,Bradley McConville
+AMS259,Graz,15.5,47.1,493,Jun-26,Rainer Kuschnig
+AMS260,Hoher Hagen,9.8,51.5,490,,Nikola Strah
+AMS261,Riga,24,57,10,Mar-25,Kārlis Bērziņš
+AMS262,Ursensollen,11.7,49.4,535,Apr-25,Norbert Reuschl
+AMS263,Hamburg Bergedorf,10.2,53.5,35,Jun-25,Volker Heesen
+AMS264,Salcott,0.8,51.7,15,Dec-25,Roger Pittock
+AMS265,Gahberg,13.6,47.9,855,Apr-25,Oliver Schneider
+AMS266,Lindenberg,14.1,52.2,125,Apr-25,André Knöfel
+AMS267,Suntaži,25,56.9,120,,Arnis Ginters
+AMS268,Gettorf,10,54.4,28,May-25,Carsten Jonas
+AMS269,Frascati,12.7,41.8,230,Mar-26,Eva Gmelich Meijling
+AMS270,Burtnieki,25.4,57.7,66,Nov-25,Jānis Šatrovskis
+AMS271,Nerpio,-2.3,38.1,1650,May-26,Agustín Nuñez
+AMS272,Jungfraujoch,8,46.5,3571,,Gunter Stober
+AMS273,Haidmühle,13.8,48.8,822,,Detlef Koschny
+AMS274,Noordwijkerhout,4.5,52.3,3,,Detlef Koschny
+AMS276,Antarctica,166.8,-77.5,13,,Richard Querel
+AMS278,Teneriffe,-16.5,28.3,2390,Jun-26,Björn Poppe & Theresa Ott
+AMS30,Demmin,13.1,53.9,33,Jul-21,Wolfgang Hamburg & Michael Danielides
+AMS31,Tartu,26.7,58.3,40,Jan-26,Viljam Takis & Detlef Koschny
+AMS32,Silinīki,27.7,56.7,121,Jun-26,Detlef Koschny & Kārlis Bērziņš
+AMS33,Nürnberg,11.1,49.5,338,Aug-21,Sirko Molau & Hartmuth Kintzel & Oliver Grötsch
+AMS34,Gniewowo,18.3,54.6,75,Aug-25,Carsten Jonas & Krzysztof Polakowski
+AMS35,Conow,11.325496,53.220087,68,Mar-20,Sirko Molau
+AMS36,Kirchheim,11.015774,50.875137,267,Mar-20,Jürgen Schulz
+AMS37,Dwingeloo,6.396062,52.813158,20,Feb-21,Felix Bettonvil & Dusan Bettonvil
+AMS38,Andoya,16,69.3,379,Jul-22,Gerd Baumgarten
+AMS39,Langenes,15.1,69,43,Mar-23,Gerd Baumgarten
+AMS41,LeGrand,-92.8,42,55,Aug-20,Jim and Deb Bonser
+AMS42,Ely Iowa,-91.5,41.9,256,Jun-20,Carl Bracken
+AMS48,Otter Creek TWP,-91.7,42.2,145,Jun-20,Jim Hannon
+AMS50,Karlsruhe,8.3,49,113,Sep-20,Uwe Baron
+AMS51,Salzburg,13.007453,47.924028,802,Sep-20,Michael Demker
+AMS52,Sonneberg,11.1898444,50.3773083,641,Nov-20,Peter Kroll & Mario Ennes & Thomas Müller
+AMS53,Hofheim,8.393857,50.113782,360,Dec-20,Martin Timpe
+AMS54,Benediktbeuern,11.4219444,47.708333,640,Nov-20,Stephan Adler
+AMS55,Drebach,13,50.7,515,Oct-20,Gerhard Lehmann
+AMS56,Bischbrunn,9.517513,49.857624,385,Sep-20,Jürgen Väth
+AMS57,Weil der Stadt,8.8607,48.751879,475,Sep-20,Markus Kempf
+AMS58,Holzkirchen,11.691886,47.878275,691,Oct-20,Martin Weiss
+AMS59,Zweibrücken,7.4,49.2,260,Nov-20,Rouven Ipser
+AMS60,Göttingen,9.976649,51.523875,346,Mar-21,Matthias Elsen
+AMS61,Amrum,8.35145,54.65225,5,Jan-21,Jost Jahn
+AMS62,Bremerhaven,8.6,53.6,25,May-21,Maciej Libert & Jan-Gerd Mess
+AMS63,Essen,6.978594,51.394351,120,Mar-23,Michael Werger
+AMS64,Sirnach,9,47.5,442,Jul-24,Erwin Späni
+AMS65,Radebeul,13.6,51.1,185,Feb-21,Martin Fiedler
+AMS66,Oostkapelle,3.537655,51.571917,3,Feb-21,Klaas Jobse
+AMS67,Antwerp,4.454574,51.213359,16,Jan-21,Luc Bastiaens
+AMS68,Humain,5.244685,50.19254,295,Mar-21,Hervé Lamy
+AMS69,Hoher Sonnblick,13,47.1,3112,Oct-23,Stephan Adler
+AMS70,Kühlungsborn,11.77206,54.11694,85,Apr-21,Gerd Baumgarten
+AMS71,Becsehely,16.8,46.5,177,Jul-21,Krisztián Sárneczky & Balázs Csák
+AMS72,Piszkéstetö,19.9,47.9,954,Aug-21,Krisztián Sárneczky & Balázs Csák
+AMS73,Monteggio,8.8,46,420,Apr-21,Stefano Klett
+AMS74,Neutraubling,12.2,49,330,Jun-21,Björn Kattentidt
+AMS75,Juliusruh,13.4,54.6,17,Jun-21,Gerd Baumgarten
+AMS76,Herkenrath,7.2,51,207,Jul-21,Bernd Klemt
+AMS77,Kamnik,14.6,46.2,442,Aug-21,Javor Kac & Yves Bastian
+AMS78,Baja,19,46.2,110,Aug-21,Zoltán Jäger
+AMS79,Nagyszénás,20.7,46.7,103,Apr-22,Zsolt Kereszty & Norbert Szabo
+AMS80,Garching,11.7,48.3,492,Jul-21,Michael Frühauf
+AMS81,Cebreros,-4.4,40.5,711,Aug-21,Rainer Kresken
+AMS82,Cáceres,-6.3,39.8,739,Jul-22,Juan Carlos Martin & Pablo Ramirez
+AMS83,Koksijde,2.6,51.1,5,Aug-21,Didier van Hellemont
+AMS84,Forssa,13.2,57.7,178,Nov-22,Håkan Svedhem
+AMS85,Wien,16.4,48.2,200,Apr-22,Ludovic Ferriere
+AMS86,Tomar,-8.4,39.5,95,Jul-21,Rui Gonçalves
+AMS87,São Brás de Alportel,-7.9,37.2,254,Jul-21,John Parsons
+AMS88,Hoyerswerda,14.3,51.4,118,Sep-21,Peter Lindner
+AMS89,Sorø,11.6,55.5,43,Nov-21,Henning Haack
+AMS90,Györ,17.6,47.6,130,Sep-23,Zsolt Kereszty
+AMS91,Zalaegerszeg,16.8,46.8,187,Nov-21,Szilárd Csizmadia & Zsolt Kereszty & Péter Bánfalvi
+AMS92,Bükki Csillagda,20.5,48.1,640,Jan-22,Zsolt Kereszty & Tibor Hegedus
+AMS93,Opole,18,50.7,176,Sep-21,Łukasz Smuła
+AMS94,Hurbanovo,18.2,47.9,115,Oct-21,Ivan Dorotovic
+AMS95,Oldenburg,8.2,53.2,30,Oct-21,Björn Poppe & Theresa Ott
+AMS96,Fulda,9.7,50.6,280,Oct-21,Marc Streit
+AMS97,Fehérgyarmat,22.5,48,111,Nov-21,Krisztián Sárneczky & Balázs Csák
+AMS98,Hortobágy,21.1,47.6,121,Oct-22,Krisztián Sárneczky & Balázs Csák
+AMS99,Pergola,12.8,43.6,472,Mar-22,Alexander Geiss & Joachim Stürck
